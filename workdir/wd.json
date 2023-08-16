@@ -1,0 +1,434 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": "29",
+            "label": "29",
+            "shape": "image",
+            "image": "./img/29.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        },
+        {
+            "id": "20",
+            "label": "20",
+            "shape": "image",
+            "image": "./img/20.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        },
+        {
+            "id": "32",
+            "label": "32",
+            "shape": "image",
+            "image": "./img/32.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        },
+        {
+            "id": "28",
+            "label": "28",
+            "shape": "image",
+            "image": "./img/28.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        },
+        {
+            "id": "22",
+            "label": "22",
+            "shape": "image",
+            "image": "./img/22.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        },
+        {
+            "id": "1oiy",
+            "label": "1oiy",
+            "shape": "image",
+            "image": "./img/1oiy.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        },
+        {
+            "id": "1h1r",
+            "label": "1h1r",
+            "shape": "image",
+            "image": "./img/1h1r.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        },
+        {
+            "id": "17",
+            "label": "17",
+            "shape": "image",
+            "image": "./img/17.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        },
+        {
+            "id": "1h1s",
+            "label": "1h1s",
+            "shape": "image",
+            "image": "./img/1h1s.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        },
+        {
+            "id": "21",
+            "label": "21",
+            "shape": "image",
+            "image": "./img/21.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        },
+        {
+            "id": "30",
+            "label": "30",
+            "shape": "image",
+            "image": "./img/30.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        },
+        {
+            "id": "1h1q",
+            "label": "1h1q",
+            "shape": "image",
+            "image": "./img/1h1q.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        },
+        {
+            "id": "1oi9",
+            "label": "1oi9",
+            "shape": "image",
+            "image": "./img/1oi9.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        },
+        {
+            "id": "31",
+            "label": "31",
+            "shape": "image",
+            "image": "./img/31.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        },
+        {
+            "id": "1oiu",
+            "label": "1oiu",
+            "shape": "image",
+            "image": "./img/1oiu.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        },
+        {
+            "id": "26",
+            "label": "26",
+            "shape": "image",
+            "image": "./img/26.png",
+            "payload": {
+                "dG": "Test",
+                "dGexpt": null
+            }
+        }
+    ],
+    "hasCalculated": false,
+    "edges": [
+        {
+            "weight": 0.582,
+            "source": 6,
+            "target": 12,
+            "from": "29",
+            "to": "20",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.597,
+            "source": 6,
+            "target": 13,
+            "from": "29",
+            "to": "22",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.6,
+            "source": 6,
+            "target": 7,
+            "from": "29",
+            "to": "1h1r",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.6,
+            "source": 6,
+            "target": 14,
+            "from": "29",
+            "to": "17",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.606,
+            "source": 6,
+            "target": 8,
+            "from": "29",
+            "to": "21",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.69,
+            "source": 6,
+            "target": 15,
+            "from": "29",
+            "to": "1h1q",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.586,
+            "source": 12,
+            "target": 4,
+            "from": "20",
+            "to": "32",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.591,
+            "source": 12,
+            "target": 1,
+            "from": "20",
+            "to": "28",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.609,
+            "source": 12,
+            "target": 0,
+            "from": "20",
+            "to": "30",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.619,
+            "source": 12,
+            "target": 11,
+            "from": "20",
+            "to": "31",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.639,
+            "source": 12,
+            "target": 9,
+            "from": "20",
+            "to": "26",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.609,
+            "source": 4,
+            "target": 15,
+            "from": "32",
+            "to": "1h1q",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.615,
+            "source": 4,
+            "target": 3,
+            "from": "32",
+            "to": "1oi9",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.603,
+            "source": 4,
+            "target": 7,
+            "from": "32",
+            "to": "1h1r",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.603,
+            "source": 4,
+            "target": 14,
+            "from": "32",
+            "to": "17",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.606,
+            "source": 1,
+            "target": 13,
+            "from": "28",
+            "to": "22",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.6,
+            "source": 13,
+            "target": 2,
+            "from": "22",
+            "to": "1oiy",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.6,
+            "source": 13,
+            "target": 10,
+            "from": "22",
+            "to": "1h1s",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.625,
+            "source": 13,
+            "target": 0,
+            "from": "22",
+            "to": "30",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.609,
+            "source": 2,
+            "target": 8,
+            "from": "1oiy",
+            "to": "21",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.609,
+            "source": 10,
+            "target": 8,
+            "from": "1h1s",
+            "to": "21",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.629,
+            "source": 3,
+            "target": 5,
+            "from": "1oi9",
+            "to": "1oiu",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.615,
+            "source": 11,
+            "target": 5,
+            "from": "31",
+            "to": "1oiu",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        },
+        {
+            "weight": 0.609,
+            "source": 5,
+            "target": 9,
+            "from": "1oiu",
+            "to": "26",
+            "payload": {
+                "ddG": "Test",
+                "ddGexpt": null
+            }
+        }
+    ]
+}
